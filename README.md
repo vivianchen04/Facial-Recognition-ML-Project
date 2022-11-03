@@ -1,0 +1,3 @@
+# Facial-Recognition-ML-Project
+
+Facial Recognition using different methods including SVM, Random Forest, CNN, FFNN ...
